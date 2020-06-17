@@ -16,7 +16,6 @@ using namespace std;
 
 int main()
 {
-	cout << "yl" << endl;
 
 	system("pause");
 	return 0;
